@@ -1,0 +1,48 @@
+[ {"site" :  "Amazon",
+        "url"  :  "https://www.amazon.it/s?k=iphonee",
+        "renderer": "none",
+        "estract_data_info":
+        [   
+            {"variable" : "cont", "container":"div",  "name":"s-item-container"},
+            {"variable" : "name", "container":"h2",    "name":"a-size-medium s-inline  s-access-title  a-text-normal"},
+            {"variable" : "price", "container":"span", "name":"a-size-base a-color-price s-price a-text-bold"},
+            {"variable" : "img", "container":"img",  "name":"s-access-image cfMarker"}
+        ]
+        
+    },
+    
+
+
+
+{
+    "site" :  "Secondlifephone",
+    "url"  :  "https://www.secondlifephone.it/categoria-prodotto/apple/iphone/?count=100&paged=",
+    "renderer": "none",
+    "estract_data_info":
+    [   
+        {"variable" : "cont", "container":"div",  "name":"product-inner"},
+        {"variable" : "name", "container":"h3",    "name":"woocommerce-loop-product__title"},
+        {"variable" : "link", "container":"a",    "name":"product-loop-title"},
+        {"variable" : "price", "container":"span", "name":"woocommerce-Price-amount amount"},
+        {"variable" : "img", "container":"img",  "name":"hover-image"}
+    ]
+    
+},
+{
+    "site" :  "Joojea",
+    "url"  :  "https://www.joojea.it/12-iphone?id_category=12&n=900",
+    "renderer": "none",
+    "estract_data_info":
+    [   
+        {"variable" : "cont", "container":"div",  "name":"right-block"},
+        {"variable" : "name", "container":"a",    "name":"product-name"},
+        {"variable" : "link", "container":"a",    "name":"product-name"},
+        {"variable" : "price", "container":"span", "name":"price product-price"},
+        {"variable" : "img", "container":"img",  "name":"replace-2x img-responsive"}
+        
+    ]
+    
+}
+
+
+]
