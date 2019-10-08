@@ -1,4 +1,4 @@
-# webscraping
+# Custom webscraping for italian iphones ecommerce
 This project is composed by 2 main files:
 * The index.py that when compiled get the name, the price and a link of all iphones searching on the code of the web pages provided in the site_data.json
 * A custom bot for telegram that helps you keep tracking of all the prices of the iphones you choose
