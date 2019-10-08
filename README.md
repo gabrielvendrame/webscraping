@@ -14,5 +14,9 @@ This project is composed by 2 main files:
 This is a project made for fun (and to learn something new) few months ago, is still very raw, i have lot of new ideas to improve it, but for now I can't spend more time on it... By the way any suggestion is well accepted :)
 
 ## Screenshots
-![Terminale](/images/terminale.jpg)
-![Bot](/images/bot.jpg)
+
+<p align="center">
+  <img src="images/terminale.jpg" width="256" height="455">
+ <img src="images/bot.jpg" width="256" height="455">
+
+</p>
