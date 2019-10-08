@@ -16,7 +16,7 @@ This is a project made for fun (and to learn something new) few months ago, is s
 ## Screenshots
 
 <p align="center">
-  <img src="images/terminale.jpg" width="256" height="455">
+  <img src="images/terminale.jpg" width="456" height="455">
  <img src="images/bot.jpg" width="256" height="455">
 
 </p>
